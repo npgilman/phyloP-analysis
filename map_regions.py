@@ -6,7 +6,7 @@ def map(chrNum, dataPath, outputPath):
         print("Aborting on chrX")
         return
 
-    gtf_protein_data = f"./chroms/gtf_{chrNum}.tsv"
+    gtf_protein_data = f"./gtf_chromosmes/gtf_{chrNum}.tsv"
 
     proteins = pd.read_table(gtf_protein_data)
     proteinsPos = proteins[proteins.iloc[:, 6] == '+'].iloc[:, 3]
