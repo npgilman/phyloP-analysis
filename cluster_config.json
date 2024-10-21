@@ -6,7 +6,7 @@
       "qos": "kgraim-b",
       "cpus-per-task": "1",
       "Nodes": "1",
-      "mem": "150gb",
+      "mem": "1gb",
       "runtime": "96:00:00",
       "jobname": "Accelerated_Regions",
       "mail": "ngilman@ufl.edu",
@@ -17,7 +17,7 @@
   {
     "ntasks":"1",
     "cpus-per-task": "1",
-    "mem": "150gb"
+    "mem": "1gb"
   }
   
 }
