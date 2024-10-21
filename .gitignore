@@ -1,0 +1,4 @@
+/logs/*
+/gtf_chromosomes/*
+.snakemake/*
+__pycache__/*
