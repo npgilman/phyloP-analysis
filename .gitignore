@@ -1,4 +1,13 @@
-/logs/*
-/gtf_chromosomes/*
+logs/*
+gtf_chromosomes/*
 .snakemake/*
+test_data/*
 __pycache__/*
+Scripts/*
+Lib/*
+.ipynb_checkpoints/*
+
+.gitignore
+pyvenv.cfg
+TestNotebook.ipynb
+
