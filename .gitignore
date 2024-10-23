@@ -6,6 +6,9 @@ __pycache__/*
 Scripts/*
 Lib/*
 .ipynb_checkpoints/*
+gtf_chromosomes/*
+
+
 
 .gitignore
 pyvenv.cfg
